@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/j-nary/j-nary/blob/master/welcome.gif" />
+  <img src="https://github.com/j-nary/j-nary/blob/master/logo.gif" />
 </div>
 <!--
 **j-nary/j-nary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
