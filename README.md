@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="800px" src="https://github.com/j-nary/j-nary/blob/master/logo.gif" />
+  <img width="800px" src="https://github.com/j-nary/j-nary/blob/master/logo_unsreen.gif" />
   <img src="https://github-readme-stats.vercel.app/api?username=j-nary&show_icons=true&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=j-nary&layout=compact" />
 </div>
