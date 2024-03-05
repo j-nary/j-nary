@@ -1,6 +1,5 @@
-### Hi there 👋
 <div align="center">
-  <img src="https://github.com/j-nary/j-nary/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
+  <img src="https://github.com/j-nary/j-nary/blob/master/welcome.gif" />
 </div>
 <!--
 **j-nary/j-nary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
