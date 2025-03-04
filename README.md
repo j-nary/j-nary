@@ -12,9 +12,11 @@
 - VISLab 데이터 시각화 연구원 (2022.06 ~ )
 
 ## ETC
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=j-nary&show_icons=true&theme=radical" />
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jnary" />
+</div>
 
-![j-nary's GitHub stats](https://github-readme-stats.vercel.app/api?username=j-nary&include_all_commits=True&show_icons=true&theme=dark)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jnary)](https://solved.ac/jnary/)
 
 <div align="center">
   <img width="800px" src="https://github.com/j-nary/j-nary/blob/master/logo_unscreen.gif" />
